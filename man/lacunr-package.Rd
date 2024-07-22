@@ -11,13 +11,13 @@ Calculates 3D lacunarity from voxel data. It is designed for use with point clou
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/ElliottSmeds/lacunr}
-  \item Report bugs at \url{https://github.com/ElliottSmeds/lacunr/issues}
+  \item \url{https://github.com/ElliottSmeds/lacunr-anon}
+  \item Report bugs at \url{https://github.com/ElliottSmeds/lacunr-anon/issues}
 }
 
 }
 \author{
-\strong{Maintainer}: Elliott Smeds \email{elliott.alfred93@gmail.com} (\href{https://orcid.org/0000-0003-1054-7491}{ORCID}) [copyright holder]
+\strong{Maintainer}: Anonymous \email{Anonymous} (\href{https://orcid.org/Anonymous}{ORCID}) [copyright holder]
 
 Other contributors:
 \itemize{
