@@ -1,4 +1,4 @@
-# The following function, 'voxelize()', was adapted by Elliott A. Smeds from the
+# The following function, 'voxelize()', was adapted by Anonymous from the
 # function 'voxels()' authored by J. Antonio Guzmán Q. for the R package 'rTLS'
 # (https://github.com/Antguz/rTLS), under the terms of the GPL-3.0 open software
 # license
