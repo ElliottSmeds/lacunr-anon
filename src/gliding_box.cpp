@@ -1,6 +1,6 @@
 // A script for performing gliding box lacunarity calculation for 3d voxel arrays
 // using the integral image algorithm (Williams 2015)
-// Author: Elliott A. Smeds
+// Author: Anonymous
 
 #include <RcppArmadillo.h>
 
