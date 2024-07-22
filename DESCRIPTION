@@ -9,8 +9,8 @@ Authors@R: c(
     person("J. Antonio", "Guzmán Q.", role = "cph",
            comment = "Author of original version of voxelize() function")
   )
-URL: https://github.com/Anonymous/lacunr
-BugReports: https://github.com/Anonymous/lacunr/issues
+URL: https://github.com/ElliottSmeds/lacunr-anon
+BugReports: https://github.com/ElliottSmeds/lacunr-anon/issues
 Description: Calculates 3D lacunarity from voxel data. It is designed for use
     with point clouds generated from Light Detection And Ranging (LiDAR) scans
     in order to measure the spatial heterogeneity of 3-dimensional structures
