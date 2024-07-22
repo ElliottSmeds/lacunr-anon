@@ -4,13 +4,13 @@ Title: Fast 3D Lacunarity for Voxel Data
 Version: 1.0.1.9000
 Date: 2024-06-03
 Authors@R: c(
-    person("Elliott", "Smeds", , "elliott.alfred93@gmail.com", role = c("aut", "cre", "cph"),
-           comment = c(ORCID = "0000-0003-1054-7491")),
+    person("Anonymous", "Anonymous", , "Anonymous", role = c("aut", "cre", "cph"),
+           comment = c(ORCID = "Anonymous")),
     person("J. Antonio", "Guzmán Q.", role = "cph",
            comment = "Author of original version of voxelize() function")
   )
-URL: https://github.com/ElliottSmeds/lacunr
-BugReports: https://github.com/ElliottSmeds/lacunr/issues
+URL: https://github.com/Anonymous/lacunr
+BugReports: https://github.com/Anonymous/lacunr/issues
 Description: Calculates 3D lacunarity from voxel data. It is designed for use
     with point clouds generated from Light Detection And Ranging (LiDAR) scans
     in order to measure the spatial heterogeneity of 3-dimensional structures
